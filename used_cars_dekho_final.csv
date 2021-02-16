@@ -1,0 +1,379 @@
+,manufacturer,car_name,manufacturing_year,no_of_owners,kms_driven,location,city,transmission,mileage,fuel_type,mode_of_sale,seats,engine,max_power,wheel_size,price
+0,Kia,Seltos,2019,First,"20,999",HSR Layout,bangalore,Manual,16.1,Petrol,Dealer,5,1353,138,N/A,18.4
+1,BMW,3,2011,Second,"90,000",Indiranagar,bangalore,Automatic,16.07,Diesel,Dealer,5,1995,181,16 x 7J,11.9
+2,Audi,A8,2016,First,"25,000",Byatarayanapura,bangalore,Automatic,16.77,Diesel,Dealer,4,2967,246.74,N/A,59.5
+3,Mahindra,XUV500,2013,First,"31,000",Koramangala,bangalore,Manual,15.1,Diesel,Dealer,7,2179,140,N/A,9.75
+4,Mahindra,Scorpio,2003,Third,"1,00,000",,bangalore,Manual,10.5,Diesel,Individual,8,2179,120,N/A,2.1
+5,Mercedes-Benz,GL-Class,2010,Second,"80,000",,bangalore,Automatic,12.0,Diesel,Individual,7,2987,224,8.5 J x 19,20
+6,Maruti,Alto,2018,First,"16,633",Bangalore City,bangalore,Manual,23.95,Petrol,Dealer,5,998,67.05,13,3.8
+7,Mercedes-Benz,GLC,2018,First,"41,000",Banaswadi,bangalore,Automatic,17.9,Diesel,Dealer,5,2143,170,N/A,42
+8,Audi,Q3,2018,First,"43,000",Byatarayanapura,bangalore,Automatic,15.17,Diesel,Dealer,5,1968,181,N/A,32.5
+9,Maruti,Ritz,2014,First,"60,000",Sivan Chetty Gardens,bangalore,Manual,21.1,Diesel,Dealer,5,1248,73.9,N/A,4.65
+10,Volkswagen,Polo,2016,First,"25,000",HSR Layout,bangalore,Manual,16.2,Petrol,Dealer,5,1199,74,N/A,6.1
+11,Maruti,Celerio,2017,First,"8,077",Bangalore City,bangalore,Automatic,23.1,Petrol,Dealer,5,998,67.04,14,5.19
+12,Maruti,Alto,2016,First,"6,142",Bangalore City,bangalore,Manual,23.95,Petrol,Dealer,5,998,67.05,13,3.72
+13,BMW,6,2019,First,"9,000",Jayanagar,bangalore,Automatic,,Diesel,Dealer,,,,,65
+14,Maruti,Ignis,2018,First,"25,136",Bangalore City,bangalore,Manual,20.89,Petrol,Dealer,5,1197,81.80,15,5.45
+15,Hyundai,i20,2015,First,"46,033",Bangalore City,bangalore,Manual,22.54,Diesel,Dealer,5,1396,88.73,N/A,6.3
+16,Maruti,Swift,2014,First,"47,199",Bangalore City,bangalore,Manual,25.2,Diesel,Dealer,5,1248,74,14,5.56
+17,Kia,Seltos,2019,First,"5,134",Marathahalli Colony,bangalore,Automatic,16.8,Petrol,Dealer,5,1353,138,N/A,19.76
+18,Hyundai,Grand,2017,First,"5,933",Bangalore City,bangalore,Manual,18.9,Petrol,Dealer,5,1197,81.86,14,5.92
+19,Hyundai,i20,2018,First,"25,000",Pulkeshi Nagar,bangalore,Manual,17.19,Petrol,Dealer,5,1197,81.86,N/A,7.5
+20,Hyundai,Verna,2012,First,"54,000",,chennai,Manual,22.32,Diesel,Individual,5,1582,126.32,N/A,4.7
+21,Mercedes-Benz,New,2016,First,"35,000",,chennai,Automatic,19.27,Diesel,Individual,5,2143,170,N/A,33
+22,Toyota,Innova,2010,First,"1,00,000",,chennai,Manual,12.8,Diesel,Individual,8,2494,102,N/A,9.5
+23,Maruti,Baleno,2018,First,"50,000",Kodambakkam,chennai,Automatic,21.4,Petrol,Dealer,5,1197,83.1,N/A,7.25
+24,Hyundai,i20,2018,First,"4,000",Adambakkam,chennai,Manual,18.6,Petrol,Dealer,5,1197,81.83,N/A,7.1
+25,Maruti,Baleno,2019,First,"9,000",Thygaraya Nagar,chennai,Manual,21.01,Petrol,Dealer,5,1197,81.80,R15,5.9
+26,Audi,A4,2018,First,"17,000",Kottivakkam,chennai,Automatic,17.84,Petrol,Dealer,5,1395,147.51,N/A,34
+27,Ford,Ecosport,2018,First,"18,000",Medavakkam,chennai,Automatic,14.8,Petrol,Dealer,5,1497,121.36,16,9.25
+28,Honda,Jazz,2017,First,"77,000",Thygaraya Nagar,chennai,Manual,27.3,Diesel,Dealer,5,1498,98.6,N/A,6.25
+29,Hyundai,i20,2017,First,"16,100",Nandanam,chennai,Manual,18.6,Petrol,Dealer,5,1197,81.83,14,6.3
+30,Maruti,Swift,2018,First,"37,000",Adambakkam,chennai,Automatic,28.4,Diesel,Dealer,5,1248,74,N/A,7.65
+31,Maruti,Celerio,2015,First,"34,000",Koyambedu,chennai,Automatic,23.1,Petrol,Dealer,5,998,67.04,14,4.25
+32,Hyundai,Elantra,2019,First,"55,001",Medavakkam,chennai,Manual,22.54,Diesel,Dealer,5,1582,126.2,N/A,15.5
+33,Tata,Tiago,2018,First,"8,000",Medavakkam,chennai,Automatic,23.84,Petrol,Dealer,5,1199,83.83,N/A,5.35
+34,Honda,Jazz,2017,First,"29,000",Thygaraya Nagar,chennai,Manual,27.3,Diesel,Dealer,5,1498,98.6,15,6.6
+35,Renault,Lodgy,2015,First,"32,000",Adambakkam,chennai,Manual,21.04,Diesel,Dealer,8,1461,83.8,N/A,6.65
+36,Kia,Carnival,2020,First,"9,000",Kottivakkam,chennai,Automatic,14.11,Diesel,Dealer,7,2199,197.2,N/A,36
+37,Toyota,Fortuner,2017,First,"85,000",Choolaimedu,chennai,Automatic,15.04,Diesel,Dealer,7,2755,174.5,N/A,26.5
+38,Hyundai,i20,2017,First,"18,000",Adambakkam,chennai,Manual,17.19,Petrol,Dealer,5,1197,81.86,N/A,7.1
+39,Hyundai,i20,2018,First,"53,000",Thygaraya Nagar,chennai,Manual,22.54,Diesel,Dealer,5,1396,88.76,14,6.85
+40,Audi,A4,2017,First,"37,996",Preet Vihar,delhi ncr,Automatic,18.25,Diesel,Dealer,5,1968,187.74,N/A,26.25
+41,BMW,X4,2019,First,"16,110",Naraina,delhi ncr,Automatic,16.78,Diesel,Dealer,5,1995,190,N/A,56.75
+42,Mercedes-Benz,CLS-Class,2019,First,"5,000",Nariana,delhi ncr,Automatic,19.0,Diesel,Dealer,5,1950,241.3,N/A,75
+43,Lexus,ES,2019,First,"17,000",Naraina,delhi ncr,Automatic,22.37,Petrol,Dealer,5,2487,214.56,N/A,54.75
+44,Chevrolet,Cruze,2011,First,"70,000",,delhi ncr,Automatic,18.1,Diesel,Individual,4,1991,147.9,6.5Jx16,3.3
+45,Mercedes-Benz,GLA,2019,First,"7,000",Ashok Vihar,delhi ncr,Automatic,13.7,Petrol,Dealer,5,1991,183,N/A,32
+46,Toyota,Corolla,2019,First,"14,200",Vikas Puri,delhi ncr,Manual,14.28,Petrol,Dealer,5,1798,138.03,N/A,14.5
+47,BMW,6,2019,First,"16,000",Ashok Vihar,delhi ncr,Automatic,17.09,Diesel,Dealer,4,2993,261.4,N/A,58
+48,Ford,Freestyle,2018,First,"20,000",Laxmi Nagar,delhi ncr,Manual,19.0,Petrol,Dealer,5,1194,94.68,15,5.49
+49,Land,Rover,2018,First,"38,000",Nariana,delhi ncr,Automatic,12.81,Diesel,Dealer,7,1999,148.31,N/A,41
+50,BMW,X1,2018,First,"20,000",Chanakya Puri,delhi ncr,Automatic,20.68,Diesel,Dealer,5,1995,190,N/A,30
+51,Ford,Ecosport,2015,First,"54,000",Jangpura,delhi ncr,Manual,,Diesel,Dealer,,,,,5
+52,Jaguar,XF,2015,First,"52,000",Patel Nagar,delhi ncr,Automatic,16.36,Diesel,Dealer,5,2179,187.7,N/A,20.95
+53,Mercedes-Benz,S-Class,2014,First,"38,000",Lajpat Nagar,delhi ncr,Automatic,10.13,Petrol,Dealer,5,3498,364.9,17 x 8.0 J,28
+54,BMW,X5,2018,First,"39,500",Chanakya Puri,delhi ncr,Automatic,15.97,Diesel,Dealer,5,2993,258,N/A,55
+55,Mercedes-Benz,New,2018,First,"22,700",Vigyan Vihar,delhi ncr,Automatic,19.27,Diesel,Dealer,5,2143,170,N/A,31.5
+56,Honda,CR-V,2017,First,"58,000",Naraina,delhi ncr,Automatic,12.0,Petrol,Dealer,5,2354,187.4,17 x 6.5 J,17.25
+57,BMW,X4,2019,First,"7,600",Ramesh Nagar,delhi ncr,Automatic,16.78,Diesel,Dealer,5,1995,190,N/A,58.05
+58,BMW,X5,2019,First,"11,000",Ashok Vihar,delhi ncr,Automatic,13.38,Diesel,Dealer,5,2993,265,N/A,79
+59,Hyundai,Grand,2019,First,"4,000",Madhapur,hyderabad,Manual,18.9,Petrol,Dealer,5,1197,81.86,N/A,7.1
+60,Skoda,Octavia,2015,First,"1,09,000",Ammerpet,hyderabad,Automatic,19.3,Diesel,Dealer,5,1968,141,N/A,13.5
+61,Ford,Ecosport,2015,First,"59,636",Santh Nagar,hyderabad,Manual,22.77,Diesel,Dealer,5,1498,98.59,N/A,7
+62,Maruti,Celerio,2017,First,"21,882",Santh Nagar,hyderabad,Automatic,23.1,Petrol,Dealer,5,998,67.04,14,4.93
+63,Maruti,Alto,2019,First,"10,000",,hyderabad,Manual,23.95,Petrol,Individual,5,998,67.05,13,3.73
+64,Volvo,S90,2018,First,"39,000",Jubilee Hills,hyderabad,Automatic,18.0,Diesel,Dealer,5,1969,190,N/A,42
+65,Renault,Duster,2015,First,"70,000",Basheerbagh,hyderabad,Manual,,Diesel,Dealer,,,,,5.5
+66,Audi,A4,2017,First,"45,000",Jubilee Hills,hyderabad,Automatic,18.25,Diesel,Dealer,5,1968,187.74,N/A,32
+67,MG,Hector,2020,First,"12,000",Gandhi Bhawan,hyderabad,Automatic,13.96,Petrol,Dealer,5,1451,141,N/A,19
+68,BMW,X1,2018,First,"28,000",Jubilee Hills,hyderabad,Automatic,20.68,Diesel,Dealer,5,1995,188,N/A,33
+69,Maruti,Baleno,2015,First,"53,000",Ammerpet,hyderabad,Automatic,21.4,Petrol,Dealer,5,1197,83.1,15,6.25
+70,Maruti,Swift,2017,First,"62,000",Gandhi Bhawan,hyderabad,Manual,17.8,Diesel,Dealer,5,1248,null,N/A,5.85
+71,Hyundai,i20,2015,First,"77,597",Santh Nagar,hyderabad,Manual,22.54,Diesel,Dealer,5,1396,88.73,N/A,6.34
+72,Maruti,Baleno,2018,First,"8,600",Ammerpet,hyderabad,Automatic,21.4,Petrol,Dealer,5,1197,83.1,N/A,8.75
+73,Hyundai,Creta,2017,First,"72,000",Sanjeeva Reddy Nagar,hyderabad,Manual,20.5,Diesel,Dealer,5,1582,126.2,N/A,10.99
+74,Hyundai,Grand,2018,First,"6,300",Ammerpet,hyderabad,Manual,18.9,Petrol,Dealer,5,1197,81.86,14,6.25
+75,Maruti,Swift,2015,First,"26,000",Erragadda,hyderabad,Manual,,Diesel,Dealer,,,,,6.45
+76,Audi,A6,2013,First,"83,532",Malviya Nagar,jaipur,Automatic,17.68,Diesel,Dealer,5,1968,174.33,8J X 17,22.5
+77,Mercedes-Benz,E-Class,2013,First,"65,000",Malviya Nagar,jaipur,Automatic,13.0,Diesel,Dealer,5,2143,201.1,N/A,22.5
+78,Hyundai,Creta,2018,First,"16,000",Airport Sanganer,jaipur,Manual,15.8,Petrol,Dealer,5,1591,121.3,N/A,13.75
+79,Honda,Amaze,2015,First,"48,500",Airport Sanganer,jaipur,Manual,18.0,Petrol,Dealer,5,1198,86.7,N/A,4.75
+80,Audi,A4,2012,First,"60,000",Malviya Nagar,jaipur,Automatic,16.55,Diesel,Dealer,5,1968,147.51,7.5J X 16,15.5
+81,Honda,Amaze,2019,First,"21,200",Airport Sanganer,jaipur,Manual,17.8,Petrol,Dealer,5,1198,86.7,14,6.9
+82,Hyundai,Tucson,2017,First,"52,000",Amer Clark Hotel,jaipur,Automatic,16.38,Diesel,Dealer,5,1995,182.46,N/A,17.25
+83,Hyundai,Grand,2017,First,"25,000",,jaipur,Manual,18.9,Petrol,Individual,5,1197,82,14,4.8
+84,Maruti,Vitara,2018,First,"14,700",Vidyut Nagar,jaipur,Manual,24.3,Diesel,Dealer,5,1248,88.5,16,9.25
+85,Maruti,Baleno,2016,First,"54,000",Shyam Nagar,jaipur,Manual,21.4,Petrol,Dealer,5,1197,83.1,15,5.75
+86,Maruti,Swift,2017,First,"69,124",Amer Clark Hotel,jaipur,Automatic,18.5,Petrol,Dealer,5,1197,83.14,14,6.21
+87,Maruti,Vitara,2018,First,"15,000",Amer Clark Hotel,jaipur,Manual,24.3,Diesel,Dealer,5,1248,88.5,16,9.21
+88,Hyundai,i20,2017,First,"23,000",Jaipur,jaipur,Manual,22.54,Diesel,Dealer,5,1396,88.73,N/A,7.75
+89,Hyundai,Grand,2016,First,"71,000",Vaishali Nagar,jaipur,Manual,24.0,Diesel,Dealer,5,1120,70,14,4.9
+90,Maruti,SX4,2018,First,"66,000",Jhotwara,jaipur,Manual,25.1,Diesel,Dealer,5,1248,88.5,N/A,9.15
+91,Honda,City,2019,First,"12,000",Vaishali Nagar,jaipur,Manual,25.6,Diesel,Dealer,5,1498,97.9,N/A,10.8
+92,Maruti,Swift,2015,First,"78,000",Amer Clark Hotel,jaipur,Manual,26.59,Diesel,Dealer,5,1248,74,14,5.75
+93,Hyundai,i20,2014,First,"73,000",Jhotwara,jaipur,Manual,22.54,Diesel,Dealer,5,1396,88.73,N/A,5.4
+94,Honda,City,2016,First,"86,000",Shyam Nagar,jaipur,Manual,17.8,Petrol,Dealer,5,1497,117.3,15,6.1
+95,Maruti,Baleno,2017,First,"55,087",Jawahar Nagar,jaipur,Manual,21.01,Petrol,Dealer,5,1197,81.80,R15,6.05
+96,Mahindra,Thar,2018,First,"16,000",Kalighat,kolkata,Manual,16.55,Diesel,Dealer,6,2498,105,16,8.18
+97,Honda,BR-V,2017,First,"22,022",Kasba,kolkata,Manual,21.9,Diesel,Dealer,7,1498,98.6,16,7.75
+98,Hyundai,Grand,2018,First,"41,000",Garia BT,kolkata,Manual,18.9,Petrol,Dealer,5,1197,81.86,14,4.5
+99,Honda,City,2015,First,"58,058",Kasba,kolkata,Manual,17.4,Petrol,Dealer,5,1497,117.3,15,5
+100,Toyota,Etios,2014,First,"45,745",Council House Street,kolkata,Manual,16.78,Petrol,Dealer,5,1496,88.73,15,3.29
+101,Toyota,Innova,2019,First,"6,006",Kasba,kolkata,Manual,13.68,Diesel,Dealer,7,2393,147.8,N/A,19.5
+102,Hyundai,Grand,2019,First,"14,000",Manicktala,kolkata,Manual,18.9,Petrol,Dealer,5,1197,81.86,14,5.1
+103,Honda,Amaze,2016,First,"19,200",Maheshtala Gobindapur,kolkata,Manual,17.8,Petrol,Dealer,5,1198,86.7,N/A,4.6
+104,Honda,City,2014,First,"35,000",Kalighat,kolkata,Manual,26.0,Diesel,Dealer,5,1498,98.6,N/A,5.11
+105,Maruti,Ciaz,2017,First,"35,000",Council House Street,kolkata,Manual,28.09,Diesel,Dealer,5,1248,88.5,N/A,6.5
+106,Toyota,Etios,2016,First,"24,024",Kasba,kolkata,Manual,16.78,Petrol,Dealer,5,1496,88.73,14,4.5
+107,Hyundai,Creta,2016,First,"48,000",Kalighat,kolkata,Manual,20.5,Diesel,Dealer,5,1582,126.2,N/A,8.49
+108,Toyota,Etios,2016,First,"32,032",Kasba,kolkata,Manual,16.78,Petrol,Dealer,5,1496,88.73,15,4.5
+109,Toyota,Etios,2012,First,"44,001",Kasba,kolkata,Manual,17.6,Petrol,Dealer,5,1496,88.7,N/A,3
+110,Mitsubishi,Outlander,2012,First,"58,000",Kasba,kolkata,Automatic,11.3,Petrol,Dealer,5,2360,170,N/A,6.6
+111,Honda,City,2015,First,"50,000",Garia BT,kolkata,Manual,17.4,Petrol,Dealer,5,1497,117.3,15,5.35
+112,Tata,Sumo,2016,First,"95,095",Kasba,kolkata,Manual,15.3,Diesel,Dealer,7,2956,83.83,15,4.25
+113,Datsun,GO,2020,First,"23,010",Kasba,kolkata,Manual,19.02,Petrol,Dealer,5,1198,67.05,14,4.25
+114,Maruti,Swift,2014,First,"33,981",Council House Street,kolkata,Manual,23.4,Diesel,Dealer,5,1248,74,N/A,4.39
+115,Maruti,Swift,2014,First,"39,785",Council House Street,kolkata,Manual,23.4,Diesel,Dealer,5,1248,74,N/A,4.35
+116,Honda,City,2016,First,"32,302",Jogeshwari West,mumbai,Automatic,18.0,Petrol,Dealer,5,1497,117.3,N/A,8.2
+117,Toyota,Innova,2018,First,"29,000",New Prabhadevi Road,mumbai,Manual,13.68,Diesel,Dealer,7,2393,147.8,N/A,17.75
+118,Mercedes-Benz,GLS,2019,First,"9,700",Vileeparle,mumbai,Automatic,,Diesel,Dealer,,,,,89
+119,Hyundai,i20,2016,First,"40,000",nerul,mumbai,Manual,21.19,Diesel,Dealer,5,1396,88.73,N/A,7.2
+120,Hyundai,i10,2014,First,"31,005",Malad West,mumbai,Manual,20.36,Petrol,Dealer,5,1197,78.9,N/A,3
+121,Volkswagen,Vento,2019,First,"2,711",Borivali West,mumbai,Automatic,18.19,Petrol,Dealer,5,1197,103.2,N/A,9.45
+122,Mercedes-Benz,New,2018,First,"18,000",Malad West,mumbai,Automatic,19.27,Diesel,Dealer,5,2143,167.62,N/A,32
+123,Skoda,Octavia,2018,First,"8,400",Matunga West,mumbai,Automatic,19.5,Diesel,Dealer,5,1968,141,N/A,21.9
+124,Mercedes-Benz,E-Class,2019,First,"9,000",Andheri West,mumbai,Automatic,15.0,Petrol,Dealer,5,1991,194.4,N/A,51.9
+125,Mini,Cooper,2017,First,"18,000",Andheri West,mumbai,Automatic,16.6,Diesel,Dealer,5,1998,112,N/A,23.5
+126,Mercedes-Benz,New,2018,First,"9,000",Powai,mumbai,Automatic,14.74,Petrol,Dealer,5,1991,181.03,N/A,31.5
+127,Mercedes-Benz,GLA,2018,First,"15,000",goregaon (w),mumbai,Automatic,13.7,Petrol,Dealer,5,1991,183,N/A,25.75
+128,Toyota,Camry,2010,First,"57,000",Antop Hill,mumbai,Automatic,12.1,Petrol,Dealer,5,2362,164.7,16 x 6 1/2 J,5.35
+129,Toyota,Camry,2010,First,"57,000",Antop Hill,mumbai,Automatic,12.1,Petrol,Dealer,5,2362,164.7,16 x 6 1/2 J,5.35
+130,Ford,Figo,2016,First,"56,210",Thane West,mumbai,Manual,25.83,Diesel,Dealer,5,1498,99,N/A,4.99
+131,Jeep,Compass,2017,First,"46,000",Navi Mumbai,mumbai,Manual,16.3,Diesel,Dealer,5,1956,170,N/A,16
+132,Maruti,XL6,2019,First,"6,600",Mulund West,mumbai,Automatic,17.99,Petrol,Dealer,6,1462,103.2,N/A,11.5
+133,Hyundai,Verna,2018,First,"8,000",Malad,mumbai,Manual,17.0,Petrol,Dealer,5,1591,121.3,N/A,9.25
+134,Ford,Freestyle,2018,First,"10,000",,mumbai,Manual,19.0,Petrol,Individual,5,1194,94.68,N/A,6.25
+135,Skoda,Octavia,2018,First,"17,000",Borivali West,mumbai,Automatic,15.1,Petrol,Dealer,5,1798,178,N/A,20.5
+136,Mahindra,Ssangyong,2013,First,"1,20,000",Wanowarie,pune,Manual,12.83,Diesel,Dealer,7,2696,162,N/A,5.5
+137,Skoda,Octavia,2018,First,"66,850",Kasarwadi,pune,Automatic,19.5,Diesel,Dealer,5,1968,141,N/A,20.75
+138,Tata,Manza,2012,First,"1,21,000",Pimpri,pune,Manual,21.12,Diesel,Dealer,5,1248,88.8,5.5J x 15,3
+139,Audi,Q5,2012,First,"77,000",Pimpalgaon Tarfe Chakan,pune,Automatic,12.8,Diesel,Dealer,5,1968,167.6,N/A,14.25
+140,Hyundai,Santro,2011,Second,"60,193",Baner,pune,Manual,0.0,Petrol,Dealer,5,1086,62,N/A,2.12
+141,Hyundai,Verna,2013,Second,"70,000",,pune,Automatic,22.32,Diesel,Individual,5,1582,126.32,N/A,5.5
+142,BMW,3,2017,First,"51,000",Pune Cantt East,pune,Automatic,21.76,Diesel,Dealer,5,1995,188,N/A,30
+143,Mahindra,Scorpio,2006,First,"1,23,456",Pimpri,pune,Manual,10.5,Diesel,Dealer,8,2179,120,N/A,2.35
+144,BMW,3,2016,First,"53,000",Pune Cantt East,pune,Automatic,22.69,Diesel,Dealer,5,1995,190,N/A,20
+145,BMW,5,2017,First,"51,000",Pune Cantt East,pune,Automatic,18.12,Diesel,Dealer,5,1995,190,N/A,33
+146,Renault,KWID,2019,First,"8,500",Kothrud,pune,Automatic,24.04,Petrol,Dealer,5,999,67,14,4.25
+147,BMW,X4,2019,First,"7,099",Hadapsar,pune,Automatic,14.71,Diesel,Dealer,5,2993,265,N/A,65
+148,BMW,X1,2017,First,"15,416",Hadapsar,pune,Automatic,20.68,Diesel,Dealer,5,1995,188,N/A,30
+149,BMW,X5,2019,First,"10,351",Hadapsar,pune,Automatic,13.38,Diesel,Dealer,5,2993,265,N/A,81
+150,BMW,7,2017,First,"21,119",Hadapsar,pune,Automatic,16.46,Diesel,Dealer,5,2993,258,N/A,75
+151,BMW,X1,2019,First,"29,000",Camp,pune,Automatic,17.05,Diesel,Dealer,5,1995,188,N/A,36
+152,Honda,Jazz,2015,First,"32,000",Aundh,pune,Manual,18.7,Petrol,Dealer,5,1199,88.7,14,4.15
+153,Hyundai,Santro,2009,First,"51,561",Vishal Nagar,pune,Manual,13.45 ,LPG,Dealer,5,1086,62.1,N/A,1.59
+154,BMW,X3,2019,First,"8,620",Hadapsar,pune,Automatic,18.56,Diesel,Dealer,5,1995,187.7,N/A,61
+155,Honda,City,2016,First,"89,682",Camp,pune,Automatic,18.0,Petrol,Dealer,5,1497,117.3,15,6.99
+156,Maruti,Swift,2013,First,"30,000",,agra,Manual,19.1,Petrol,Individual,5,1197,85.8,N/A,3.5
+157,Land,Rover,2016,Second,"60,000",,agra,Automatic,12.83,Diesel,Individual,7,2179,147.5,N/A,30
+158,Ford,Figo,2013,Second,"93,400",,agra,Manual,20.0,Diesel,Individual,5,1399,68.1,N/A,2.5
+159,Volkswagen,Vento,2010,Second,"90,000",,agra,Manual,15.8,Petrol,Individual,5,1598,105,N/A,2
+160,Maruti,Vitara,2017,First,"59,000",Agra City,agra,Manual,24.3,Diesel,Dealer,5,1248,88.5,16,6.3
+161,Land,Rover,2017,First,"35,800",Agra City,agra,Automatic,12.83,Diesel,Dealer,7,1999,148.31,N/A,35.75
+162,Maruti,Baleno,2016,First,"47,600",Agra City,agra,Manual,21.4,Petrol,Dealer,5,1197,83.1,15,5.85
+163,Toyota,Innova,2016,First,"1,38,000",Agra City,agra,Automatic,11.36,Diesel,Dealer,7,2755,171.5,N/A,14.9
+164,Honda,Amaze,2015,First,"92,700",Agra City,agra,Manual,18.0,Petrol,Dealer,5,1198,86.7,14,4.5
+165,Toyota,Innova,2015,First,"1,11,400",Agra City,agra,Manual,12.99,Diesel,Dealer,7,2494,100.6,15,8.5
+166,Mercedes-Benz,New,2013,First,"59,000",Agra City,agra,Automatic,14.84,Diesel,Dealer,5,2143,170,N/A,12.8
+167,Volvo,S,2015,First,"1,17,000",Agra City,agra,Automatic,13.1,Diesel,Dealer,5,2400,215,N/A,13.5
+168,Maruti,Ciaz,2016,Second,"88,400",Agra City,agra,Manual,28.09,Diesel,Dealer,5,1248,88.5,15,5.9
+169,Toyota,Innova,2014,First,"1,10,200",Agra City,agra,Manual,12.99,Diesel,Dealer,7,2494,100.6,15,7.9
+170,Volkswagen,Vento,2013,Second,"69,000",Agra City,agra,Manual,20.54,Diesel,Dealer,5,1598,103.6,N/A,3.75
+171,Mercedes-Benz,GL-Class,2012,First,"1,86,900",Agra City,agra,Automatic,11.3,Diesel,Dealer,7,2987,254.8,N/A,16.9
+172,Mercedes-Benz,New,2014,Second,"62,000",Agra City,agra,Automatic,14.84,Diesel,Dealer,5,2143,170,N/A,14.5
+173,BMW,X3,2011,Fourth & Abov,"72,900",Agra City,agra,Automatic,16.55,Diesel,Dealer,5,2993,258,8J X 18,11.9
+174,Audi,Q7,2013,Second,"90,000",Agra City,agra,Automatic,12.07,Diesel,Dealer,7,2967,241.4,8 J x 18,20
+175,Maruti,Zen,2010,First,"60,000",,agra,Manual,19.0,Petrol,Individual,5,998,67.1,N/A,1.3
+176,OpelCorsa,1.4Gsi,2004,First,"90,000",,amritsar,Manual,14.2,Petrol,Individual,5,1389,88,5.5J x 13,1.06
+177,Hyundai,EON,2017,First,"20,487",Amritsar Bus Stand,amritsar,Manual,21.1,Petrol,Dealer,5,814,55.2,12,2.62
+178,Honda,WR-V,2019,First,"8,022",Amritsar Bus Stand,amritsar,Manual,17.5,Petrol,Dealer,5,1199,88.7,R16,8.41
+179,Maruti,Swift,2014,Second,"62,646",Amritsar Bus Stand,amritsar,Manual,23.4,Diesel,Dealer,5,1248,74,N/A,4.08
+180,Hyundai,EON,2013,First,"32,902",Amritsar Bus Stand,amritsar,Manual,21.1,Petrol,Dealer,5,814,55.2,12,1.65
+181,Volkswagen,Ameo,2019,First,"10,000",Amritsar Kty,amritsar,Manual,19.44,Petrol,Dealer,5,999,75,15,6.4
+182,Mahindra,KUV,2016,First,"18,000",Amritsar Kty,amritsar,Manual,25.32,Diesel,Dealer,5,1198,77,14,4.75
+183,Renault,Scala,2013,First,"57,000",Amritsar Kty,amritsar,Manual,21.64,Diesel,Dealer,5,1461,84.8,N/A,3.75
+184,Hyundai,i20,2016,First,"50,000",Amritsar Kty,amritsar,Manual,22.54,Diesel,Dealer,5,1396,88.73,N/A,6.5
+185,Nissan,Micra,2015,First,"60,000",Amritsar Kty,amritsar,Manual,23.08,Diesel,Dealer,5,1461,63.1,14,4.35
+186,Volkswagen,Polo,2010,First,"34,000",Amritsar Kty,amritsar,Manual,16.47,Petrol,Dealer,5,1198,73.9,N/A,2.9
+187,Honda,City,2014,First,"80,000",Amritsar Kty,amritsar,Manual,26.0,Diesel,Dealer,5,1498,98.6,N/A,6.25
+188,Hyundai,i10,2013,Second,"7,700",Amritsar Kty,amritsar,Manual,19.2 ,LPG,Dealer,5,1086,68.05,N/A,3.45
+189,Nissan,Micra,2013,First,"60,000",Amritsar Kty,amritsar,Manual,23.08,Diesel,Dealer,5,1461,63.1,14,3.75
+190,Nissan,Terrano,2014,First,"58,000",Amritsar Kty,amritsar,Manual,19.01,Diesel,Dealer,5,1461,108.5,N/A,5.75
+191,Hyundai,i20,2013,First,"80,000",Amritsar Kty,amritsar,Manual,21.9,Diesel,Dealer,5,1396,88.76,N/A,3.9
+192,Hyundai,EON,2015,First,"55,000",Amritsar Kty,amritsar,Manual,20.3,Petrol,Dealer,5,998,68.05,13,3.15
+193,Datsun,GO,2015,Second,"40,000",Amritsar Kty,amritsar,Manual,20.63,Petrol,Dealer,5,1198,67,14,2.75
+194,Chevrolet,Spark,2010,Third,"40,000",Amritsar Kty,amritsar,Manual,18.0,Petrol,Dealer,5,995,62,13 X 4.5 J,1.8
+195,Hyundai,Xcent,2015,Second,"70,000",Amritsar Kty,amritsar,Manual,19.1,Petrol,Dealer,5,1197,82,14,4.4
+196,Tata,Indigo,2017,First,"73,000",,visakhapatnam,Manual,19.09,Diesel,Individual,5,1405,69.01,14,3.85
+197,Volkswagen,Polo,2020,First,"5,000",,visakhapatnam,Manual,18.24,Petrol,Individual,5,999,108.62,N/A,8
+198,Fiat,Grande,2012,First,"70,000",,visakhapatnam,Manual,20.3,Diesel,Individual,5,1248,75,N/A,2.75
+199,Hyundai,i20,2016,First,"44,000",Visakhapatnam Airport,visakhapatnam,Manual,18.6,Petrol,Dealer,5,1197,81.83,N/A,5.9
+200,Hyundai,i20,2015,First,"93,000",Visakhapatnam Airport,visakhapatnam,Manual,21.19,Diesel,Dealer,5,1396,88.76,N/A,5.7
+201,Renault,KWID,2018,First,"15,000",Visakhapatnam Airport,visakhapatnam,Automatic,24.04,Petrol,Dealer,5,999,67,13,4.25
+202,Maruti,Swift,2016,First,"13,000",Visakhapatnam Airport,visakhapatnam,Manual,22.0,Petrol,Dealer,5,1197,81.80,14,6.35
+203,Maruti,Swift,2016,First,"1,00,000",Visakhapatnam Airport,visakhapatnam,Manual,25.2,Diesel,Dealer,5,1248,74,14,5.75
+204,Hyundai,Grand,2017,First,"52,000",Visakhapatnam Airport,visakhapatnam,Manual,24.0,Diesel,Dealer,5,1186,73.97,N/A,5.75
+205,Renault,KWID,2016,First,"32,000",Visakhapatnam Airport,visakhapatnam,Automatic,24.04,Petrol,Dealer,5,999,67,13,3.75
+206,Hyundai,Creta,2016,First,"1,06,000",Visakhapatnam Airport,visakhapatnam,Manual,19.67,Diesel,Dealer,5,1582,126.2,N/A,9.75
+207,Honda,Brio,2016,First,"42,000",Visakhapatnam Airport,visakhapatnam,Manual,19.4,Petrol,Dealer,5,1198,86.8,14,4.2
+208,Maruti,Ertiga,2015,First,"1,30,000",Visakhapatnam Airport,visakhapatnam,Manual,20.77,Diesel,Dealer,7,1248,88.76,15,6.75
+209,Hyundai,Grand,2017,First,"58,000",Visakhapatnam Airport,visakhapatnam,Manual,18.9,Petrol,Dealer,5,1197,81.86,14,4.9
+210,Nissan,Evalia,2013,First,"1,03,000",Visakhapatnam Airport,visakhapatnam,Manual,19.3,Diesel,Dealer,7,1461,84.8,14,5.2
+211,Hyundai,Verna,2010,Second,"85,000",Visakhapatnam Airport,visakhapatnam,Manual,16.8,Diesel,Dealer,5,1493,110,14 x 5.0J,2.6
+212,Maruti,Ritz,2013,Second,"1,03,000",Visakhapatnam Airport,visakhapatnam,Manual,23.2,Diesel,Dealer,5,1248,73.94,N/A,3.95
+213,Tata,Indigo,2004,Second,"90,000",,visakhapatnam,Manual,12.8,Petrol,Individual,5,1396,85,N/A,"80,000"
+214,Datsun,GO,2017,First,"24,000",,visakhapatnam,Manual,19.44,Petrol,Individual,7,1198,67,13,4.25
+215,Maruti,Wagon,2018,First,"32,000",,visakhapatnam,Manual,20.51,Petrol,Individual,5,998,67.04,14,3.8
+216,Maruti,Ritz,2013,Second,"1,31,400",,vijayawada,Manual,23.2,Diesel,Individual,5,1248,73.94,14,2.85
+217,Hyundai,Grand,2020,First,"15,000",,vijayawada,Automatic,20.7,Petrol,Individual,5,1197,81.86,N/A,6.5
+218,Tata,Indigo,2014,Second,"95,000",,vijayawada,Manual,19.09,Diesel,Individual,5,1405,69.01,14,2.2
+219,Tata,Bolt,2016,Second,"1,20,000",,vijayawada,Manual,17.57,Petrol,Individual,5,1193,88.7,14,2.9
+220,Maruti,Zen,1998,Third,"90,000",,vijayawada,Manual,17.3,Petrol,Individual,5,993,60,4.5J x 13,"80,000"
+221,Ford,Ikon,2010,First,"1,65,000",,vijayawada,Manual,13.8,Diesel,Individual,5,1399,68,13 x 5 1/2 JJ,1.75
+222,Maruti,SX4,2017,First,"70,000",,vijayawada,Manual,25.1,Diesel,Individual,5,1248,88.5,R16,7.4
+223,Maruti,Alto,2011,Second,"70,000",,vijayawada,Manual,26.83 ,CNG,Individual,5,796,38.4,N/A,2.2
+224,Toyota,Innova,2007,First,"2,00,000",,vijayawada,Manual,12.8,Diesel,Individual,7,2494,102,N/A,5
+225,Mahindra,Ssangyong,2013,Second,"1,11,000",,vijayawada,Automatic,11.18,Diesel,Individual,7,2696,184,N/A,13.5
+226,Volkswagen,Ameo,2017,Second,"1,16,000",,vijayawada,Manual,21.66,Diesel,Individual,5,1498,108.62,14,5.5
+227,Maruti,Eeco,2017,Second,"60,000",,vijayawada,Manual,15.37,Petrol,Individual,5,1196,73,13,4
+228,Toyota,Innova,2015,Second,"1,90,000",,vijayawada,Manual,12.99,Diesel,Individual,7,2494,100.6,N/A,12
+229,Tata,Indica,2007,Second,"1,20,000",,vijayawada,Manual,16.8,Diesel,Individual,5,1405,68,N/A,"90,000"
+230,Hyundai,Verna,2010,Second,"1,20,000",,vijayawada,Manual,16.2,Diesel,Individual,5,1493,110,N/A,3
+231,Fiat,Linea,2013,First,"1,20,000",,vijayawada,Manual,20.4,Diesel,Individual,5,1248,91.2,N/A,4
+232,Maruti,SX4,2012,First,"81,300",,vijayawada,Manual,21.5,Diesel,Individual,5,1248,88.8,N/A,3.5
+233,Renault,Duster,2014,First,"1,79,000",,udupi,Manual,19.01,Diesel,Individual,5,1461,108.45,N/A,5.5
+234,Maruti,Swift,2014,First,"50,000",,udupi,Manual,20.4,Petrol,Individual,5,1197,81.80,14,4.25
+235,Maruti,Ritz,2013,Second,"1,24,000",,udupi,Manual,23.2,Diesel,Individual,5,1248,73.94,14,3.85
+236,Hyundai,i20,2016,First,"1,06,000",,udupi,Manual,21.19,Diesel,Individual,5,1396,88.73,N/A,6.75
+237,Hyundai,i20,2016,First,"1,06,000",,udupi,Manual,21.19,Diesel,Individual,5,1396,88.73,N/A,6.75
+238,Toyota,Innova,2017,Second,"70,000",,udupi,Automatic,11.36,Diesel,Individual,7,2755,171.5,N/A,15.5
+239,Ford,Ecosport,2018,First,"1,40,000",,udupi,Manual,21.7,Diesel,Individual,5,1498,98.96,N/A,9
+240,Fiat,Punto,2017,First,"70,000",,udupi,Manual,20.5,Diesel,Individual,5,1248,91.7,N/A,6
+241,Maruti,Swift,2012,First,"1,70,000",,udupi,Manual,19.3,Diesel,Individual,5,1248,73.9,N/A,4.5
+242,Renault,Koleos,2012,First,"60,000",,udupi,Automatic,13.73,Diesel,Individual,5,1995,148,17 X 6.5J,8.5
+243,Hyundai,i20,2014,Second,"28,080",,udupi,Manual,18.6,Petrol,Individual,5,1197,81.83,14,4.85
+244,Hyundai,Verna,2012,Second,"80,000",,udupi,Automatic,22.32,Diesel,Individual,5,1582,126.32,N/A,4.7
+245,Maruti,Baleno,2019,First,"25,000",,udupi,Manual,21.4,Petrol,Individual,5,1197,83.1,N/A,7.36
+246,Maruti,Vitara,2018,First,"25,000",,udupi,Manual,24.3,Diesel,Individual,5,1248,88.5,N/A,9.85
+247,Hyundai,Grand,2017,First,"32,000",,udupi,Manual,18.9,Petrol,Individual,5,1197,81.86,N/A,5.3
+248,Ford,Figo,2011,First,"80,000",,udupi,Manual,20.0,Diesel,Individual,5,1399,68,N/A,2.7
+249,Maruti,Baleno,2017,First,"40,000",,udupi,Manual,21.4,Petrol,Individual,5,1197,83.1,N/A,7.9
+250,Honda,Amaze,2013,First,"80,000",,udupi,Manual,25.8,Diesel,Individual,5,1498,98.6,14,4.2
+251,Maruti,Swift,2009,Second,"1,67,000",,udupi,Manual,17.8,Diesel,Individual,5,1248,75,N/A,2.5
+252,Chevrolet,OptraSRV,2007,Second,"90,000",,udupi,Manual,12.3,Petrol,Individual,5,1598,101,14 x 5.5 J,1.4
+253,Honda,Amaze,2017,First,"62,000",,allahabad,Manual,25.8,Diesel,Individual,5,1498,98.6,14,5.25
+254,Maruti,Vitara,2017,First,"60,000",Ahmadganj S.O,allahabad,Manual,24.3,Diesel,Dealer,5,1248,88.5,N/A,8
+255,Maruti,Zen,2002,Second,"50,000",Ahmadganj S.O,allahabad,Manual,17.3,Petrol,Dealer,5,993,60,4.5J x 13,"75,000"
+256,Maruti,Wagon,2011,Second,"50,000",Ahmadganj S.O,allahabad,Manual,20.51,Petrol,Dealer,5,998,67.04,13,2.2
+257,Chevrolet,Beat,2012,Third,"55,000",Ahmadganj S.O,allahabad,Manual,25.44,Diesel,Dealer,5,936,57.6,14 X 4.5J,1.65
+258,Maruti,Swift,2019,First,"15,000",,allahabad,Automatic,28.4,Diesel,Individual,5,1248,74.02,14,7.5
+259,Maruti,Swift,2019,First,"30,000",,allahabad,Manual,21.21,Petrol,Individual,5,1197,81.80,14,6.2
+260,Maruti,Alto,2015,First,"15,000",,allahabad,Manual,22.74,Petrol,Individual,5,796,47.3,12,2.22
+261,OpelCorsa,1.4,2004,Fourth & Abov,"60,000",,allahabad,Manual,14.2,Petrol,Individual,5,1389,88,5.5J x 13,"95,000"
+262,Mahindra,Scorpio,2016,First,"70,000",,allahabad,Manual,15.4,Diesel,Individual,7,1997,120,17,5.85
+263,Ford,Figo,2015,Third,"60,000",,allahabad,Manual,25.83,Diesel,Individual,5,1498,99,14,3.55
+264,Toyota,Qualis,2004,Third,"1,62,382",,allahabad,Manual,0.0,Diesel,Individual,8,2446,null,N/A,1.5
+265,Hyundai,i20,2020,First,"7,120",,allahabad,Manual,18.6,Petrol,Individual,5,1197,81.86,N/A,6.9
+266,Chevrolet,Aveo,2011,First,"56,405",,allahabad,Manual,14.7,Petrol,Individual,5,1150,76,14 x 5.5 J,1.35
+267,Mahindra,Bolero,2015,First,"1,20,000",,allahabad,Manual,15.96,Diesel,Individual,9,2523,63,16,4.73
+268,Mahindra,TUV,2019,First,"25,000",,allahabad,Manual,18.49,Diesel,Individual,7,1493,100,15,7.5
+269,Chevrolet,Beat,2014,Second,"1,00,000",,allahabad,Manual,25.44,Diesel,Individual,5,936,56.3,14,1.49
+270,Maruti,Alto,2015,Second,"43,000",,allahabad,Manual,23.95,Petrol,Individual,5,998,67.05,13,2.6
+271,Renault,Duster,2016,First,"60,000",,allahabad,Manual,19.87,Diesel,Individual,5,1461,83.8,16,9
+272,Toyota,Corolla,2006,First,"25,000",,allahabad,Manual,13.4,Petrol,Individual,5,1794,125,N/A,2.1
+273,Maruti,Vitara,2019,First,"5,300",,panaji,Automatic,24.3,Diesel,Individual,5,1248,88.5,N/A,10
+274,Maruti,SX4,2007,First,"3,76,385",,panaji,Manual,15.0,Petrol,Individual,5,1586,104.68,N/A,1.6
+275,Nissan,Sunny,2014,First,"1,00,000",,panaji,Manual,21.64,Diesel,Individual,5,1461,84.8,14x5.5J,3.5
+276,Maruti,Wagon,2011,First,"1,28,000",,panaji,Manual,18.9,Petrol,Individual,5,998,67.1,N/A,2.55
+277,Ford,Ikon,2007,Second,"80,000",,panaji,Manual,13.8,Petrol,Individual,5,1299,70,13 x 5 1/2 JJ,1.2
+278,Renault,Duster,2013,Fourth & Abov,"81,000",,panaji,Manual,19.01,Diesel,Individual,5,1461,108.45,N/A,3.4
+279,Hyundai,Grand,2013,First,"67,000",,panaji,Manual,18.9,Petrol,Individual,5,1197,82,N/A,3.51
+280,Hyundai,i10,2011,Fourth & Abov,"90,000",,panaji,Manual,20.36,Petrol,Individual,5,1197,78.9,N/A,1.6
+281,Ford,Ikon,2007,Second,"80,000",,panaji,Manual,13.8,Petrol,Individual,5,1299,70,13 x 5 1/2 JJ,1
+282,Hyundai,i20,2018,First,"33,600",,panaji,Manual,21.19,Diesel,Individual,5,1396,88.73,N/A,8.5
+283,Mercedes-Benz,New,2012,First,"60,000",,panaji,Automatic,19.71,Diesel,Individual,5,2143,201.15,N/A,23
+284,Mercedes-Benz,M-Class,2012,Second,"93,000",,panaji,Automatic,0.0,Diesel,Individual,5,2987,165,N/A,20
+285,Maruti,Baleno,2017,First,"46,000",,chandigarh,Manual,27.39,Diesel,Individual,5,1248,74,15,5.5
+286,Hyundai,Sonata,2010,Fourth & Abov,"70,000",,chandigarh,Manual,11.8,Diesel,Individual,5,1991,150,N/A,3.8
+287,Volkswagen,Vento,2019,First,"15,000",,chandigarh,Manual,16.09,Petrol,Individual,5,1598,103.2,N/A,8
+288,Mercedes-Benz,E-Class,2016,First,"70,000",,chandigarh,Automatic,15.0,Diesel,Individual,5,2143,204,N/A,40
+289,Audi,Q3,2015,First,"69,000",Industrial Area,chandigarh,Automatic,15.73,Diesel,Dealer,5,1968,174.33,6.5 J x 16,20.5
+290,Hyundai,i20,2012,Second,"80,000",,chandigarh,Manual,21.9,Diesel,Individual,5,1396,88.76,N/A,3.6
+291,Audi,Q7,2013,First,"90,000",Industrial Area,chandigarh,Automatic,12.07,Diesel,Dealer,7,2967,241.4,8 J x 18,21.5
+292,Volkswagen,Jetta,2011,Second,"1,10,000",,chandigarh,Manual,15.0,Diesel,Individual,5,1896,105,16 x 6 1/2 J,4
+293,Maruti,Ertiga,2019,First,"22,707",Daria,chandigarh,Manual,19.01,Petrol,Dealer,7,1462,103.26,N/A,7.98
+294,Maruti,Ertiga,2018,First,"52,220",Daria,chandigarh,Manual,17.5,Petrol,Dealer,7,1373,91.1,15,5.87
+295,Hyundai,Creta,2018,First,"71,800",Daria,chandigarh,Manual,19.67,Diesel,Dealer,5,1582,126.2,N/A,9.86
+296,Mahindra,NuvoSport,2016,First,"46,000",Chandigarh,chandigarh,Manual,17.45,Diesel,Dealer,7,1493,100,N/A,4.65
+297,Toyota,Innova,2009,Third,"1,90,754",Daria,chandigarh,Manual,12.8,Diesel,Dealer,7,2494,102,N/A,2.57
+298,Maruti,Swift,2012,First,"72,000",Chandigarh,chandigarh,Manual,18.6,Petrol,Dealer,5,1197,85.8,N/A,3.35
+299,Maruti,Baleno,2018,First,"15,000",chandigarh,chandigarh,Manual,21.01,Petrol,Dealer,5,1197,81.80,R15,6.25
+300,Volkswagen,Passat,2011,Second,"92,000",Chandigarh,chandigarh,Automatic,14.3,Diesel,Dealer,5,1968,167.7,7J X 16,6.75
+301,Skoda,Yeti,2011,First,"78,000",Chandigarh,chandigarh,Manual,17.67,Diesel,Dealer,5,1968,138.08,7.0J X 16,3.95
+302,Toyota,Fortuner,2013,First,"1,13,000",Chandigarh,chandigarh,Automatic,12.55,Diesel,Dealer,7,2982,168.5,N/A,14.25
+303,Honda,CR-V,2018,First,"29,369",Chandigarh,chandigarh,Automatic,10.1,Petrol,Dealer,5,2354,152,16x6 1/2 JJ,24.5
+304,Renault,Captur,2018,First,"12,300",,thiruvananthapuram,Manual,20.37,Diesel,Individual,5,1461,108.45,N/A,9.5
+305,Renault,Lodgy,2015,First,"70,000",,thiruvananthapuram,Manual,19.98,Diesel,Individual,8,1461,108.5,N/A,5.5
+306,Maruti,Wagon,2006,First,"1,08,000",,thiruvananthapuram,Manual,,Petrol,Individual,,,,,1
+307,Hyundai,Verna,2010,First,"50,000",,thiruvananthapuram,Manual,16.2,Diesel,Individual,5,1493,110,N/A,4
+308,Maruti,800,1997,Second,"70,000",,thiruvananthapuram,Manual,16.1,Petrol,Individual,4,796,37,N/A,"55,000"
+309,Volkswagen,Ameo,2016,First,"40,000",,thiruvananthapuram,Manual,17.0,Petrol,Individual,5,1198,74,N/A,6.25
+310,Maruti,Swift,2008,First,"1,15,000",,thiruvananthapuram,Manual,19.3,Diesel,Individual,5,1248,73.9,N/A,3.5
+311,Maruti,Swift,2008,First,"1,10,000",,thiruvananthapuram,Manual,19.3,Diesel,Individual,5,1248,73.9,N/A,3.25
+312,Ford,Ecosport,2016,First,"54,000",Anad Edso,thiruvananthapuram,Manual,22.77,Diesel,Dealer,5,1498,98.59,N/A,7.5
+313,Maruti,Ciaz,2014,Second,"57,000",Anad Edso,thiruvananthapuram,Manual,20.73,Petrol,Dealer,5,1373,91.1,N/A,5.8
+314,Renault,Triber,2019,First,"7,100",,thiruvananthapuram,Manual,20.0,Petrol,Individual,7,999,72,15,7.1
+315,Maruti,Eeco,2019,First,"30,000",,thiruvananthapuram,Manual,15.37,Petrol,Individual,7,1196,73,13,3.7
+316,Maruti,Celerio,2017,First,"20,000",,thiruvananthapuram,Automatic,23.1,Petrol,Individual,5,998,67.04,14,4.5
+317,Maruti,Wagon,2016,First,"75,000",,thiruvananthapuram,Automatic,20.51,Petrol,Individual,5,998,67,14,3.9
+318,Mahindra,TUV,2018,First,"50,000",,thiruvananthapuram,Manual,18.49,Diesel,Individual,7,1493,100,N/A,6.72
+319,Honda,WR-V,2017,First,"15,000",,thiruvananthapuram,Manual,17.5,Petrol,Individual,5,1199,88.7,R16,6.5
+320,Maruti,Alto,2020,First,"5,000",,thiruvananthapuram,Manual,22.05,Petrol,Individual,5,796,47.3,12,3.73
+321,Jeep,Compass,2019,First,"50,000",,thiruvananthapuram,Manual,17.1,Diesel,Individual,5,1956,170.63,N/A,18.15
+322,OpelCorsa,1.4,2003,Second,"1,08,000",,thiruvananthapuram,Manual,14.2,Petrol,Individual,5,1389,88,5.5J x 13,"90,000"
+323,Hyundai,Santro,2008,First,"80,000",,thiruvananthapuram,Manual,17.92,Petrol,Individual,5,1086,62.1,N/A,1.2
+324,BMW,X4,2019,First,"4,000",Narain Nagar,lucknow,Automatic,14.71,Diesel,Dealer,5,2993,265,N/A,63.5
+325,Audi,Q7,2015,First,"92,000",Narain Nagar,lucknow,Automatic,12.07,Diesel,Dealer,7,2967,241.4,N/A,33
+326,BMW,X3,2013,First,"37,000",Narain Nagar,lucknow,Automatic,16.09,Diesel,Dealer,5,1995,184,17 x 7.5 J,23.75
+327,BMW,3,2010,Second,"1,18,125",Lucknow Chowk,lucknow,Automatic,13.2,Diesel,Dealer,5,1995,170,16 x 7 J,6.95
+328,Ford,Ikon,2003,First,"40,000",,lucknow,Manual,14.2,Petrol,Individual,5,1597,92,13 x 5 1/2 JJ,3
+329,BMW,6,2013,First,"24,000",Narain Nagar,lucknow,Automatic,9.52,Diesel,Dealer,4,2993,313,19 x 8.5J,40
+330,BMW,X3,2013,First,"39,000",Narain Nagar,lucknow,Automatic,16.09,Diesel,Dealer,5,1995,184,17 x 7.5 J,23.75
+331,Audi,A3,2016,Second,"29,850",Narain Nagar,lucknow,Automatic,20.38,Diesel,Dealer,5,1968,143,N/A,20
+332,Mahindra,XUV500,2014,First,"60,000",,lucknow,Manual,15.1,Diesel,Individual,7,2179,140,N/A,8.5
+333,Land,Rover,2014,Second,"1,22,000",Narain Nagar,lucknow,Automatic,12.65,Diesel,Dealer,5,2993,296,N/A,55
+334,Honda,City,2015,First,"56,210",A P Sabha,lucknow,Manual,26.0,Diesel,Dealer,5,1498,98.6,15,8.75
+335,Honda,Brio,2017,First,"60,500",Lucknow G.P.O.,lucknow,Manual,18.5,Petrol,Dealer,5,1198,86.8,N/A,4.1
+336,Ford,Figo,2011,Second,"79,391",Lucknow Chowk,lucknow,Manual,20.0,Diesel,Dealer,5,1399,68,N/A,1.6
+337,Audi,A8,2013,First,"1,31,473",Lucknow G.P.O.,lucknow,Automatic,11.8,Diesel,Dealer,5,2967,246.7,18 x 8 J,29
+338,BMW,X3,2013,First,"73,000",Narain Nagar,lucknow,Automatic,16.09,Diesel,Dealer,5,1995,184,17 x 7.5 J,21.75
+339,Audi,Q3,2012,Second,"1,14,500",Lucknow G.P.O.,lucknow,Automatic,15.73,Diesel,Dealer,5,1968,174.33,6.5 J x 16,16.49
+340,BMW,X3,2014,Second,"52,380",,lucknow,Automatic,18.56,Diesel,Individual,5,1995,190,N/A,28.5
+341,Maruti,Ciaz,2019,First,"26,000",,gurgaon,Automatic,20.28,Petrol,Individual,5,1462,103.25,N/A,9.5
+342,Hyundai,Grand,2018,First,"13,000",Badli,gurgaon,Automatic,18.9,Petrol,Dealer,5,1197,81.86,N/A,5.35
+343,Mercedes-Benz,B,2014,First,"25,000",Badli,gurgaon,Automatic,14.8,Diesel,Dealer,5,2143,120.7,N/A,12.25
+344,Maruti,Swift,2015,First,"55,000",Badli,gurgaon,Manual,21.21,Petrol,Dealer,5,1197,81.80,R14,3.95
+345,Audi,Q3,2018,First,"7,000",Palam Vihar,gurgaon,Automatic,16.9,Petrol,Dealer,5,1395,147.51,N/A,28
+346,Toyota,Camry,2017,First,"32,000",Gurgaon,gurgaon,Automatic,19.16,Petrol,Dealer,5,2494,157.7,N/A,24.5
+347,BMW,6,2019,First,"7,500",Paltra,gurgaon,Automatic,14.28,Petrol,Dealer,4,1998,254.7,N/A,57
+348,Mini,Cooper,2019,First,"2,000",Gurgaon,gurgaon,Automatic,16.6,Petrol,Dealer,5,1998,189.08,N/A,34.9
+349,Honda,Brio,2012,First,"64,000",Palam Vihar,gurgaon,Manual,19.4,Petrol,Dealer,5,1198,86.8,N/A,2.55
+350,Honda,CR-V,2015,First,"74,000",Badli,gurgaon,Automatic,11.1,Petrol,Dealer,5,2354,158.8,17 x 6.5 J,10.9
+351,Ford,Ecosport,2017,Second,"29,000",Badli,gurgaon,Manual,15.9,Petrol,Dealer,5,1496,120.69,N/A,6.5
+352,Hyundai,Creta,2015,First,"64,000",Badli,gurgaon,Automatic,17.01,Diesel,Dealer,5,1582,126.2,N/A,8.75
+353,Honda,WR-V,2019,First,"35,000",,gurgaon,Manual,25.5,Diesel,Individual,5,1498,98.6,R16,7.8
+354,Maruti,Baleno,2015,First,"68,000",Sector 57,gurgaon,Manual,27.39,Diesel,Dealer,5,1248,74,N/A,4.99
+355,Toyota,Corolla,2018,First,"11,000",Palam Vihar,gurgaon,Automatic,14.28,Petrol,Dealer,5,1798,138.03,N/A,18.25
+356,Honda,WR-V,2019,First,"10,000",Sector 12,gurgaon,Manual,17.5,Petrol,Dealer,5,1199,88.7,R16,8.75
+357,Nissan,Terrano,2014,First,"83,000",Badli,gurgaon,Manual,19.01,Diesel,Dealer,5,1461,108.5,N/A,4.65
+358,Maruti,Ciaz,2017,First,"30,198",Badli,gurgaon,Manual,28.09,Diesel,Dealer,5,1248,88.5,15,6
+359,Hyundai,Grand,2015,First,"65,000",Sector 45,gurgaon,Manual,18.9,Petrol,Dealer,5,1197,82,14,3.65
+360,Audi,Q3,2018,First,"17,000",Palam Vihar,gurgaon,Automatic,15.17,Diesel,Dealer,5,1968,181,N/A,26.5
+361,Renault,Pulse,2014,First,"58,000",,kochi,Manual,23.08,Diesel,Individual,5,1461,63.12,N/A,3.71
+362,Maruti,Ertiga,2016,First,"86,000",,kochi,Manual,24.52,Diesel,Individual,7,1248,88.5,15,7
+363,Maruti,Swift,2013,First,"1,38,000",,kochi,Manual,18.6,Petrol,Individual,5,1197,85.8,N/A,3.5
+364,Maruti,Ertiga,2015,Second,"65,000",,kochi,Manual,16.02,Petrol,Individual,7,1373,93.7,15,6.1
+365,Mahindra,Xylo,2009,First,"90,000",,kochi,Manual,14.0,Diesel,Individual,8,2498,112,N/A,2.36
+366,Fiat,Linea,2009,Third,"85,000",,kochi,Manual,14.6,Petrol,Individual,5,1368,88.7,N/A,1.25
+367,Maruti,Ritz,2013,Second,"1,20,000",,kochi,Manual,23.2,Diesel,Individual,5,1248,73.94,14,3.2
+368,Toyota,Etios,2016,First,"1,02,000",,kochi,Manual,23.59,Diesel,Individual,5,1364,67.05,14,6.45
+369,Volkswagen,Polo,2011,Second,"1,57,000",,kochi,Manual,22.07,Diesel,Individual,5,1199,73.9,N/A,3
+370,Ford,Ecosport,2018,First,"1,245",Kochi,kochi,Manual,17.0,Petrol,Dealer,5,1497,121.36,N/A,10.25
+371,Maruti,Ignis,2017,First,"35,318",Kochi,kochi,Manual,20.89,Petrol,Dealer,5,1197,81.80,R15,4.65
+372,Tata,Nano,2015,First,"35,342",Kochi,kochi,Manual,25.4,Petrol,Dealer,4,624,37.5,12,1.5
+373,Chevrolet,Aveo,2009,First,"97,980",Kochi,kochi,Manual,14.7,Petrol,Dealer,5,1150,76,14 x 5.5 J,1
+374,Maruti,Alto,2006,First,"1,21,153",Kochi,kochi,Manual,19.7,Petrol,Dealer,5,796,46.3,N/A,1
+375,Hyundai,Verna,2019,First,"20,000",,kochi,Automatic,17.0,Petrol,Individual,5,1591,121.3,N/A,9.5
+376,Chevrolet,Beat,2015,First,"40,000",,kochi,Manual,25.44,Diesel,Individual,5,936,56.3,14,1.9
+377,Maruti,Ertiga,2018,First,"20,000",,kochi,Manual,,Diesel,Individual,,,,,9
